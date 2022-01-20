@@ -1,0 +1,166 @@
+{
+  "regex": {
+    "alphanumeric": "[a-zA-Z0-9 ]"
+  },
+  "config": {
+    "spamCooldown": 2000,
+    "defaultCooldown": 5000,
+    "defaultPrefix": "c!",
+    "inputTime": 120000,
+    "channelsLimit": 500,
+    "rolesLimit": 250,
+    "specTableSize": 6,
+    "noSpecTableSize": 4,
+    "newTableRoles": 2,
+    "newRolePosition": {
+      "central": 3,
+      "norte": 3,
+      "sul": 3
+    },
+    "tableImageUrl": "https://i.imgur.com/wmZxXyh.png",
+    "botId": "891838436263206962"
+  },
+  "servers": {
+    "central": "622592099380101140",
+    "norte": "813846299341488229",
+    "sul": "843239838161174618",
+    "leste": "843457931805458433"
+  },
+  "invites": {
+    "central": "https://discord.gg/tjfMrJA4zP",
+    "norte": "https://discord.gg/tmps8DeaeN",
+    "sul": "https://discord.gg/y8Fu8WqT8d",
+    "leste": "https://discord.gg/xWJfZmW5ds"
+  },
+  "channelTypes": {
+    "GUILD_TEXT": 0,
+    "DM": 1,
+    "GUILD_VOICE": 2,
+    "GROUP_DM": 3,
+    "GUILD_CATEGORY": 4,
+    "GUILD_NEWS": 5,
+    "GUILD_STORE": 6,
+    "UNKNOWN": 7,
+    "GUILD_NEWS_THREAD": 10,
+    "GUILD_PUBLIC_THREAD": 11,
+    "GUILD_PRIVATE_THREAD": 12,
+    "GUILD_STAGE_VOICE": 13
+  },
+  "channelLabels": {
+    "masterShield": "🔒・escudo-mestre",
+    "general": "💬・novo-texto",
+    "generalSpec": "💬・novo-texto-aberto",
+    "session": "Novo Voz",
+    "sessionSpec": "Novo Voz Aberto"
+  },
+  "customEmojis": {
+    "loading": "loading",
+    "zero": "tvzero",
+    "one": "tvone",
+    "two": "tvtwo",
+    "three": "tvthree",
+    "four": "tvfour",
+    "five": "tvfive",
+    "six": "tvsix",
+    "seven": "tvseven",
+    "eight": "tveight",
+    "nine": "tvnine",
+    "free": "livre",
+    "twelve": "doze",
+    "fourteen": "quatorze",
+    "sixteen": "dezesseis",
+    "eighteen": "dezoito"
+  },
+  "buttonIds": {
+    "cancel": "button_cancel",
+    "confirmYes": "confirm_yes_id",
+    "confirmNo": "confirm_no_id",
+    "chooseCampaign": "choose_campaign_id",
+    "chooseOneShot": "choose_one_shot_id",
+    "chooseBeginner": "choose_beginner_id",
+    "defaultImage": "default_image_id_"
+  },
+  "selectMenuIds": {
+    "cancel": "select_menu_cancel_id",
+    "selectServer": "select_menu_select_server_id",
+    "selectTable": "select_menu_select_table_id",
+    "selectAgeGroup": "select_menu_select_age_group_id"
+  },
+  "ageIds": {
+    "free": "id_free",
+    "twelve": "id_twelve",
+    "fourteen": "id_fourteen",
+    "sixteen": "id_sixteen",
+    "eighteen": "id_eighteen"
+  },
+  "channels": {
+    "logs": {
+      "central": "836196633485508618"
+    },
+    "campaigns": {
+      "central": "669643358930468874"
+    },
+    "oneShots": {
+      "central": "669643523745775656"
+    },
+    "beginners": {
+      "central": "851189892783669248"
+    }
+  },
+  "roles": {
+    "dj": {
+      "central": "771884989695787018",
+      "norte": "827858938418561044",
+      "sul": "844546692937809945",
+      "leste": "843457931805458438"
+    },
+    "master": {
+      "central": "632341462381625345",
+      "norte": "827858350435860510",
+      "sul": "843454608931291156",
+      "leste": "843457931805458440"
+    },
+    "sectorAdministration": {
+      "central": "815599508968833086",
+      "norte": "827857753455198270",
+      "sul": "843453619965526016",
+      "leste": "843457932133531663"
+    },
+    "contributors": {
+      "central": "719262696587133029",
+      "norte": "819866469775966218",
+      "sul": "843453836223447071",
+      "leste": "843457932133531661"
+    },
+    "campaigns": {
+      "central": "891470258928492665"
+    },
+    "oneShots": {
+      "central": "891469972142964746"
+    },
+    "beginners": {
+      "central": "851130242860187658"
+    },
+    "ranks": {
+      "squire": {
+        "central": "",
+        "norte": "",
+        "sul": "",
+        "leste": ""
+      },
+      "adventurer": {
+        "central": "",
+        "norte": "",
+        "sul": "",
+        "leste": ""
+      }
+    },
+    "separators": {
+      "staff": { "central": "", "norte": "", "sul": "", "leste": "" },
+      "ranks": { "central": "", "norte": "", "sul": "", "leste": "" },
+      "notifications": { "central": "", "norte": "", "sul": "", "leste": "" },
+      "profile": { "central": "", "norte": "", "sul": "", "leste": "" },
+      "tables": { "central": "", "norte": "", "sul": "", "leste": "" }
+    }
+  }
+}

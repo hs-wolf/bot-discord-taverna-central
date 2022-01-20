@@ -1,0 +1,123 @@
+{
+  "errorMessages": {
+    "unexpected": "Erro: Erro inesperado.",
+    "oldTable": "Erro: Esta mesa precisa ser excluida manualmente do servidor e do banco de dados."
+  },
+  "generalMessages": {
+    "cancel": "Cancelar",
+    "inactivity": "👋 Encerrado por inatividade.",
+    "maintenance": "Esta função está em manutenção.",
+    "checkDms": "Cheque suas DMs!"
+  },
+  "createTableMessages": {
+    "selectServer": "Selecione um servidor...",
+    "canceled": "❌ Criação de mesa cancelada.",
+    "mentionMaster": "Mencione o mestre da mesa...",
+    "typeName": "Digite o nome da mesa...",
+    "numbersAndLetters": "Use apenas números e letras...",
+    "alreadyExists": "Já existe uma mesa com esse nome...",
+    "typeEmoji": "Escolha um emoji para a mesa...",
+    "defaultEmojis": "Use apenas emojis padrões...",
+    "allowSpectators": "Deseja permitir espectadores?",
+    "confirmCreation": "Dados salvos, deseja criar esta mesa?",
+    "creatingTable": "Criando mesa, aguarde...",
+    "success": "✅ Mesa criada com sucesso.",
+    "maxRoles": "❌ Não foi possível criar a mesa, máximo de cargos no servidor alcançado.",
+    "maxChannels": "❌ Não foi possível criar a mesa, máximo de canais no servidor alcançado."
+  },
+  "deleteTableMessages": {
+    "noMention": "Nenhuma mesa mencionada.",
+    "dontExist": "A mesa mencionada não existe.",
+    "confirm": "Deseja realmente remover esta mesa?",
+    "canceled": "❌ Remoção da mesa cancelada.",
+    "success": "✅ Mesa deletada com sucesso."
+  },
+  "addPlayerMessages": {
+    "noTable": "Você não possui nenhuma mesa.",
+    "selectTable": "Selecione uma de suas mesas.",
+    "canceled": "❌ Adição de jogador foi cancelada.",
+    "noPlayerFound": "Nenhum jogador foi achado.",
+    "selectPlayers": "Mencione todos jogadores para adicionar (também aceita IDs)...",
+    "confirm": "Deseja adicionar os jogadores:",
+    "adding": "Adicionando jogadores...",
+    "success": "✅ Jogadores adicionados com sucesso:"
+  },
+  "removePlayerMessages": {
+    "noTable": "Você não possui nenhuma mesa.",
+    "selectTable": "Selecione uma de suas mesas...",
+    "canceled": "❌ Remoção de jogador foi cancelada.",
+    "notFound": "Nenhum jogador mencionado foi encontrado.",
+    "selectPlayers": "Mencione jogadores para remover...",
+    "confirm": "Deseja remover os seguintes jogadores?",
+    "removing": "Removendo jogadores...",
+    "success": "✅ Jogadores removidos com sucesso:"
+  },
+  "newChannelMessages": {
+    "noTable": "Você não possui nenhuma mesa.",
+    "selectTable": "Selecione uma de suas mesas...",
+    "canceled": "❌ Criação de canal cancelada.",
+    "creating": "Criando canal...",
+    "confirm": "Deseja criar este canal?",
+    "success": "✅ Canal criado com sucesso:"
+  },
+  "newRpgMessages": {
+    "noTable": "Você não possui nenhuma mesa.",
+    "selectTable": "Selecione uma de suas mesas.",
+    "canceled": "❌ A publição de Rpg foi cancelada.",
+    "selectType": "Qual será o tipo de Rpg?",
+    "selectAge": "Selecione o limite de idade.",
+    "getTitle": "Digite o título do seu Rpg.",
+    "numberAndLetters": "Use apenas números e letras.",
+    "alreadyExists": "Você já tem um Rpg ativo com esse título.",
+    "getSystem": "Digite o sistema utilizado (ex: Dungeons & Dragons, Tormenta, Vampiro a Máscara).",
+    "getStyle": "Digite o estilo do Rpg (ex: Aventura, Suspense, Roleplay).",
+    "getDate": "Digite a data da sessão (ex: Domingo 21/11/2021).",
+    "getSlots": "Digite o número de vagas (ex: 4 Vagas).",
+    "getBriefing": "Digite o resumo do seu Rpg.",
+    "getRules": "Digite as regras do seu Rpg.",
+    "getImage": "Mande uma imagem para decorar a publicação do seu Rpg.",
+    "confirm": "O Rpg esta pronto, deseja publicar?",
+    "publishing": "Publicando Rpg...",
+    "success": "✅ Rpg publicado com sucesso."
+  },
+  "followTableMessages": {
+    "notAllowed": "Esta mesa não aceita espectadores.",
+    "dontExist": "A mesa mencionada não existe.",
+    "notOnServer": "Você não esta no servidor da mesa.",
+    "confirmFollow": "Deseja seguir esta mesa?",
+    "confirmUnfollow": "Deseja parar de seguir esta mesa?",
+    "canceledFollow": "❌ Seguir mesa cancelada.",
+    "canceleUnfollow": "❌ Parar de seguir mesa cancelada.",
+    "following": "Seguindo mesa...",
+    "unollowing": "Parando de seguir mesa...",
+    "successFollow": "✅ Começou a seguir mesa com sucesso.",
+    "successUnfollow": "✅ Deixou de seguir mesa com sucesso."
+  },
+  "listPlayersMessages": {
+    "noTable": "Você não possui nenhuma mesa.",
+    "selectTable": "Selecione uma de suas mesas.",
+    "canceled": "❌ Listagem de jogadores cancelada.",
+    "success": "✅ Listagem feita com sucesso."
+  },
+  "buttonLabels": {
+    "cancel": "Cancelar",
+    "yes": "Sim",
+    "no": "Não",
+    "campaign": "Campanha",
+    "oneShot": "One-Shot",
+    "beginner": "Iniciante",
+    "defaultImage": "Imagem Padrão"
+  },
+  "ageRatings": {
+    "free": "Livre",
+    "twelve": "12 Anos",
+    "fourteen": "14 Anos",
+    "sixteen": "16 Anos",
+    "eighteen": "18+ Anos"
+  },
+  "selectMenuLabels": {
+    "selectServer": "Selecione um Servidor",
+    "selectTable": "Selecione uma Mesa",
+    "selectAgeGroup": "Selecione o limite de idade"
+  }
+}
